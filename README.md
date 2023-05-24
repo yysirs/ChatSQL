@@ -1,3 +1,6 @@
+# 项目迁移
+主项目迁移到[cubenlp/ChatSQL](https://github.com/cubenlp/ChatSQL),后续更新在该项目下进行更新
+
 # ChatSQL
 基于ChatGLM-6B/MOSS,实现nl2sql，直连数据库并返回查询结果
 目前仅支持MYSQL语法,后续支持多数据库语法查询
